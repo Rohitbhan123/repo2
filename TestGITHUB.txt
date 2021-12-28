@@ -1,3 +1,5 @@
 I am trying to borwse file from GITHUB and add it to repository repo2
 thanks
 trying to raise CONFLICT situation for MERGE command changes
+testing and addind new changes from CLI for repo2
+let us see what happens !

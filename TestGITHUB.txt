@@ -1,0 +1,2 @@
+I am trying to borwse file from GITHUB and add it to repository repo2
+thanks
